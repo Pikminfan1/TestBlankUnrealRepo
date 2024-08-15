@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\source\\testblankproject\\testblankproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\x64\\testblankprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testblankproject\\definitions.testblankproject.h",
+            "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\source\\testblankproject\\testblankproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
