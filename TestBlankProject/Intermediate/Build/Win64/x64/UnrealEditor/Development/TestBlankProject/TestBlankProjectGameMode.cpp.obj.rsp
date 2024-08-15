@@ -1,11 +1,11 @@
-"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Source\TestBlankProject\TestBlankProjectGameMode.cpp"
-/FI"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\TestBlankProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\Definitions.TestBlankProject.h"
-/Yu"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\TestBlankProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\TestBlankProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\TestBlankProjectGameMode.cpp.obj"
-/sourceDependencies "C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\TestBlankProjectGameMode.cpp.dep.json"
-@"C:\Users\Ryan\Active Projects\Unreal Projects\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\TestBlankProject.Shared.rsp"
+"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Source\TestBlankProject\TestBlankProjectGameMode.cpp"
+/FI"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\TestBlankProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\Definitions.TestBlankProject.h"
+/Yu"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\TestBlankProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\TestBlankProjectEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\TestBlankProjectGameMode.cpp.obj"
+/sourceDependencies "C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\TestBlankProjectGameMode.cpp.dep.json"
+@"C:\Users\catma\Desktop\My Projects\GMTK_GameJam_Test\TestBlankUnrealRepo\TestBlankProject\Intermediate\Build\Win64\x64\UnrealEditor\Development\TestBlankProject\TestBlankProject.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

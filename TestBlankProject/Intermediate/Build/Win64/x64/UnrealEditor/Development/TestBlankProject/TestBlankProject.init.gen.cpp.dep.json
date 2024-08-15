@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testblankproject\\uht\\testblankproject.init.gen.cpp",
+        "Source": "c:\\users\\catma\\desktop\\my projects\\gmtk_gamejam_test\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\unrealeditor\\inc\\testblankproject\\uht\\testblankproject.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\x64\\testblankprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "PCH": "c:\\users\\catma\\desktop\\my projects\\gmtk_gamejam_test\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\x64\\testblankprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
         "Includes": [
-            "c:\\users\\ryan\\active projects\\unreal projects\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testblankproject\\definitions.testblankproject.h"
+            "c:\\users\\catma\\desktop\\my projects\\gmtk_gamejam_test\\testblankunrealrepo\\testblankproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\testblankproject\\definitions.testblankproject.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

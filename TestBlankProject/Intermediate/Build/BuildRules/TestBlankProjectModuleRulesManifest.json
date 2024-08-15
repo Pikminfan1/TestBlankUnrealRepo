@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\Ryan\\Active Projects\\Unreal Projects\\TestBlankUnrealRepo\\TestBlankProject\\Source\\TestBlankProject\\TestBlankProject.Build.cs",
-		"C:\\Users\\Ryan\\Active Projects\\Unreal Projects\\TestBlankUnrealRepo\\TestBlankProject\\Source\\TestBlankProject.Target.cs",
-		"C:\\Users\\Ryan\\Active Projects\\Unreal Projects\\TestBlankUnrealRepo\\TestBlankProject\\Source\\TestBlankProjectEditor.Target.cs"
+		"C:\\Users\\catma\\Desktop\\My Projects\\GMTK_GameJam_Test\\TestBlankUnrealRepo\\TestBlankProject\\Source\\TestBlankProject\\TestBlankProject.Build.cs",
+		"C:\\Users\\catma\\Desktop\\My Projects\\GMTK_GameJam_Test\\TestBlankUnrealRepo\\TestBlankProject\\Source\\TestBlankProject.Target.cs",
+		"C:\\Users\\catma\\Desktop\\My Projects\\GMTK_GameJam_Test\\TestBlankUnrealRepo\\TestBlankProject\\Source\\TestBlankProjectEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.3"
 }
